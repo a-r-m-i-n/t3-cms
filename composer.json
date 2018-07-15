@@ -1,0 +1,27 @@
+{
+    "name": "t3/cms",
+    "type": "metapackage",
+    "description": "Extended typo3/minimal meta package, including typo3_console.",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Armin Vieweg",
+            "email": "armin.vieweg@typo3.org"
+        }
+    ],
+    "support": {
+        "general": "https://bitbucket.org/t--3/cms"
+    },
+    "require": {
+        "typo3/minimal": "^9.0",
+        "typo3/cms-fluid-styled-content": "^9.0",
+        "typo3/cms-rte-ckeditor": "^9.0",
+        "typo3/cms-belog": "^9.0",
+        "typo3/cms-beuser": "^9.0",
+        "typo3/cms-info": "^9.0",
+        "typo3/cms-lowlevel": "^9.0",
+        "typo3/cms-setup": "^9.0",
+        "typo3/cms-tstemplate": "^9.0",
+        "helhum/typo3-console": "^5.4"
+    }
+}
