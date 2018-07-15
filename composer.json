@@ -13,15 +13,15 @@
         "general": "https://bitbucket.org/t--3/cms"
     },
     "require": {
-        "typo3/minimal": "^9.0",
-        "typo3/cms-fluid-styled-content": "^9.0",
-        "typo3/cms-rte-ckeditor": "^9.0",
-        "typo3/cms-belog": "^9.0",
-        "typo3/cms-beuser": "^9.0",
-        "typo3/cms-info": "^9.0",
-        "typo3/cms-lowlevel": "^9.0",
-        "typo3/cms-setup": "^9.0",
-        "typo3/cms-tstemplate": "^9.0",
-        "helhum/typo3-console": "^5.4"
+        "typo3/minimal": "^7.6",
+        "typo3/cms-fluid-styled-content": "^7.6",
+        "typo3/cms-belog": "^7.6",
+        "typo3/cms-beuser": "^7.6",
+        "typo3/cms-info": "^7.6",
+        "typo3/cms-info-pagetsconfig": "^7.6",
+        "typo3/cms-lowlevel": "^7.6",
+        "typo3/cms-setup": "^7.6",
+        "typo3/cms-tstemplate": "^7.6",
+        "helhum/typo3-console": "^4.9"
     }
 }
