@@ -14,6 +14,7 @@
     },
     "require": {
         "typo3/minimal": "^8.7",
+        "typo3/cms-cli": "^2.0",
         "typo3/cms-fluid-styled-content": "^8.7",
         "typo3/cms-rte-ckeditor": "^8.7",
         "typo3/cms-belog": "^8.7",
@@ -23,6 +24,6 @@
         "typo3/cms-lowlevel": "^8.7",
         "typo3/cms-setup": "^8.7",
         "typo3/cms-tstemplate": "^8.7",
-        "helhum/typo3-console": "^5.4"
+        "helhum/typo3-console": "^5.5"
     }
 }
