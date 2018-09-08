@@ -11,6 +11,7 @@ including [typo3_console](https://packagist.org/packages/helhum/typo3-console).
 The following packages are **required**:
 
 - typo3/minimal
+- typo3/cms-cli
 - typo3/cms-fluid-styled-content
 - typo3/cms-rte-ckeditor *(for 8.7 and higher)*
 - typo3/cms-belog
