@@ -14,7 +14,7 @@
     },
     "require": {
         "typo3/minimal": "^11.0",
-        "typo3/cms-cli": "^2.0",
+        "typo3/cms-cli": "^2.0 || ^3.0",
         "typo3/cms-fluid-styled-content": "^11.0",
         "typo3/cms-rte-ckeditor": "^11.0",
         "typo3/cms-belog": "^11.0",
