@@ -23,6 +23,6 @@
         "typo3/cms-lowlevel": "^11.0",
         "typo3/cms-setup": "^11.0",
         "typo3/cms-tstemplate": "^11.0",
-        "helhum/typo3-console": "^6.4"
+        "helhum/typo3-console": "^7.0"
     }
 }
