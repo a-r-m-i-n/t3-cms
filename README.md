@@ -13,11 +13,10 @@ The following packages are **required**:
 - typo3/minimal
 - typo3/cms-cli
 - typo3/cms-fluid-styled-content
-- typo3/cms-rte-ckeditor *(for 8.7 and higher)*
+- typo3/cms-rte-ckeditor
 - typo3/cms-belog
 - typo3/cms-beuser
 - typo3/cms-info
-- typo3/cms-info-pagetsconfig *(for 7.6 and 8.7 only)*
 - typo3/cms-lowlevel
 - typo3/cms-setup
 - typo3/cms-tstemplate
@@ -30,6 +29,8 @@ Just add **t3/cms** as requirement to your composer.json. The following
 versions are available:
 
 - `dev-master`
+- `^12.4`
+- `^11.5`
 - `^10.4`
 - `^9.5`
 - `^8.7`
@@ -37,5 +38,5 @@ versions are available:
 
 **Example:**
 ```
-$ composer require t3/cms:"^10.4"  
+$ composer require t3/cms:"^12.4"  
 ```
