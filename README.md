@@ -20,8 +20,7 @@ The following packages are **required**:
 - typo3/cms-lowlevel
 - typo3/cms-setup
 - typo3/cms-tstemplate
-- helhum/typo3-console
-
+- t3/cli-config
 
 ## Installation
 
@@ -29,6 +28,7 @@ Just add **t3/cms** as requirement to your composer.json. The following
 versions are available:
 
 - `dev-master`
+- `^13.x`
 - `^12.4`
 - `^11.5`
 - `^10.4`
@@ -38,5 +38,5 @@ versions are available:
 
 **Example:**
 ```
-$ composer require t3/cms:"^12.4"  
+$ composer require t3/cms:"^13"  
 ```
